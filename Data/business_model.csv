@@ -1,0 +1,89 @@
+airline,country,business_model
+Aeroflot Russian Airlines,Russia ,FSC 
+Aeromexico ,Mexico ,FSC 
+Air Canada ,Canada ,FSC 
+Air China ,China ,FSC 
+Air France ,France ,FSC 
+Air New Zealand ,New Zeeland ,FSC 
+ AirAsia,Malaysia ,LCC 
+Alaska Airlines ,USA ,FSC 
+American Airlines ,USA ,FSC 
+ ANA All Nippon Airways,Japan ,FSC 
+Asiana Airlines ,South Korea ,FSC 
+Avianca ,Colombia ,FSC 
+ Saudi Arabian Airlines,Saudi Ara,FSC 
+British Airways ,UK ,FSC 
+ Cathay Pacific Airways,Hong Kong ,FSC 
+China Airlines ,Taiwan ,FSC 
+China Eastern Airlines,China ,FSC 
+China Southern Airlines,China ,FSC 
+ Delta Air Lines,USA ,FSC 
+ easyJet,UK ,LCC 
+Emirates ,UAE ,FSC 
+ Singapore Airlines,Singapor,FSC 
+ Ethiopian Airlines,Ethiopia ,FSC 
+Etihad Airways ,UAE ,FSC 
+EVA Air,Taiwan ,FSC 
+flydubai ,UAE ,LCC 
+Hawaiian ,USA ,FSC 
+Iberia ,Spain ,FSC 
+Japan Airlines ,Japan ,FSC 
+Jetblue Airways ,USA ,LCC 
+Jetstar ,Australia ,LCC 
+ KLM Royal Dutch Airlines,Netherlands ,FSC 
+ Korean Air,Korea ,FSC 
+ LATAM Airlines,Chilie ,FSC 
+Lufthansa ,Germany ,FSC 
+ Norwegian,Norway ,LCC 
+ Qantas Airways,Australia ,FSC 
+Qatar Airways ,Qatar ,FSC 
+Ryanair ,Ireland ,LCC 
+SAS Scandinavian,Sweden ,FSC 
+Southwest Airlines ,USA ,LCC 
+Spirit Airlines ,USA ,LCC 
+ Swiss Intl Air Lines,Switzerland ,FSC 
+Thai Airways ,Thailand ,FSC 
+Turkish Airlines ,Turkey ,FSC 
+United Airlines ,USA ,FSC 
+Virgin Atlantic ,UK ,FSC 
+Virgin Australia ,Australia ,FSC 
+Westjet Airlines ,Canada ,LCC 
+Wizz Air ,Hungary ,LCC 
+Adria Airways,,RC
+Aegean Airlines,,RC
+Aer Lingus,,FSC
+Air Arabia,,LCC
+Air Canada rouge,,LCC
+Air Europa,,LCC
+Air India,,FSC
+airBaltic,,FSC
+Alitalia,,FSC
+Austrian Airlines,,FSC
+Bangkok Airways,,RC
+Brussels Airlines,,FSC
+Copa Airlines,,FSC
+Egyptair,,FSC
+Eurowings,,LCC
+Finnair,,FSC
+Frontier Airlines,,LCC
+Garuda Indonesia,,FSC
+Germanwings,,LCC
+Gulf Air,,FSC
+Icelandair,,FSC
+IndiGo,,LCC
+Kuwait Airways,,FSC
+LOT Polish Airlines,,FSC
+Pegasus Airlines,,LCC
+QantasLink,,RC
+Royal Air Maroc,,FSC
+Royal Jordanian Airlines,,FSC
+South African Airways,,FSC
+Sunwing Airlines,,LCC
+TAP Portugal,,FSC
+TAROM Romanian,,FSC
+Thai Smile Airways,,RC
+Tunisair,,FSC
+Ukraine International,,FSC
+Virgin America,,LCC
+Vueling Airlines,,LCC
+WOW air,,LCC
